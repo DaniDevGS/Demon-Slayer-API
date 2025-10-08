@@ -5,7 +5,7 @@
         "name": "Tanjiro Kamado",
         "breathing_style": "Water Breathing",
         "role": "Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/5f/Tanjirou_anime_design.png/revision/latest?cb=20190527165749&path-prefix=es",
+        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/56/Final_Selection_Tanjiro_design.png/revision/latest?cb=20251002050645",
         "season": "Arch of Unbreakable Resolve"
     },
     {
@@ -29,16 +29,88 @@
         "name": "Inosuke Hashibira",
         "breathing_style": "Breath of the Beast",
         "role":"Demon Slayer",
-        "image": "https://kimetsu-no-yaiba.fandom.com/es/wiki/Inosuke_Hashibira",
+        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Inosuke_anime.png/revision/latest?cb=20181128204238",
         "season": "Arch of Unbreakable Resolve"
     },
     {
         "id": 5,
+        "name": "Kanao Tsuyuri",
+        "breathing_style": "Breath of the Flower",
+        "role":"Demon Slayer",
+        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/02/Kanao_anime_right_face.png/revision/latest?cb=20241227050721",
+        "season": "Arch of Unbreakable Resolve"
+    },
+    {
+        "id": 6,
         "name": "Giyu Tomioka",
         "breathing_style":"Water Breathing",
         "role":"Demon Slayer",
         "image": "https://static.wikia.nocookie.net/factvsfiction/images/8/83/Giyuu_anime_design.png/revision/latest/thumbnail/width/360/height/360?cb=20200405172840",
         "season":"Arch of Unbreakable Resolve"
+    },
+    {
+        "id": 7,
+        "name": "Genya Shinazugawa",
+        "breathing_style": "None",
+        "role":"Demon Slayer",
+        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/45/Genya_Final_Selection_design.png/revision/latest?cb=20251001170852",
+        "season":"Arch of Unbreakable Resolve"
+    },
+    {
+        "id": 8,
+        "name": "Sakonji Urokodaki",
+        "breathing_style":"Water Breathing",
+        "role":"Demon Slayer",
+        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d6/Younger_Sakonji_design.png/revision/latest?cb=20250930233648",
+        "season":"Arch of Unbreakable Resolve"
+    },
+    {
+        "id": 9,
+        "name": "Muzan Kibutsuji",
+        "breathing_style":"",
+        "role":"",
+        "image": "",
+        "season":""
+    },
+    {
+        "id": 10,
+        "name": "Lady Tamayo",
+        "breathing_style":"",
+        "role":"",
+        "image": "",
+        "season":""
+    },
+    {
+        "id": 11,
+        "name": "Yushiro Yamamoto",
+        "breathing_style":"",
+        "role":"",
+        "image": "",
+        "season":""
+    },
+    {
+        "id": 12,
+        "name": "Rui Ayaki",
+        "breathing_style":"",
+        "role":"",
+        "image": "",
+        "season":""
+    },
+    {
+        "id": 13,
+        "name": "Enmu",
+        "breathing_style":"",
+        "role":"",
+        "image": "",
+        "season":""
+    },
+    {
+        "id": 14,
+        "name": "Kyōjurō Rengoku",
+        "breathing_style":"",
+        "role":"",
+        "image": "",
+        "season":""
     }
 
     ]
