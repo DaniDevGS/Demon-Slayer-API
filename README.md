@@ -6,19 +6,10 @@ Una API RESTful ligera y sencilla construida con **Flask** (Python) para acceder
 
 Este proyecto sirve como una excelente plantilla para aprender a crear APIs básicas utilizando archivos **JSON** para la persistencia de datos.
 
----
 
 ## 🛠️ Stack Tecnológico
 
-| Componente | Tecnología | Versión Requerida | Propósito |
-| :--- | :--- | :--- | :--- |
-| **Backend** | Python (Flask) | 3.x | Servidor RESTful y lógica de datos. |
-| **Base de Datos** | JSON | N/A | Almacenamiento simple de los datos de personajes. |
-| **Frontend** | HTML, CSS | N/A | Página de bienvenida y documentación. |
-| **Estilos** | CSS Custom Props | N/A | Manejo centralizado de colores y tipografía. |
-
 ---
-
 | Componente | Tecnología | Propósito |
 | :--- | :---| :--- |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=py,flask)](https://github.com/DaniDevGS/Demon-Slayer-API)| Servidor RESTful y lógica de datos. |
