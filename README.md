@@ -22,7 +22,7 @@ Este proyecto sirve como una excelente plantilla para aprender a crear APIs bás
 | Componente | Tecnología | Propósito |
 | :--- | :---| :--- |
 | **Backend** | [![My Skills](https://skillicons.dev/icons?i=py,flask)](https://github.com/DaniDevGS/Demon-Slayer-API)| Servidor RESTful y lógica de datos. |
-| **Base de Datos** | [![My Skills](https://cdn-icons-png.flaticon.com/128/136/136525.png)] | Almacenamiento simple de los datos de personajes. |
+| **Base de Datos** | <img src="https://cdn-icons-png.flaticon.com/128/136/136525.png" width="40"> | Almacenamiento simple de los datos de personajes. |
 | **Frontend** | [![My Skills](https://skillicons.dev/icons?i=html,css)](https://github.com/DaniDevGS/Demon-Slayer-API) | Página de bienvenida y documentación. |
 ---
 
