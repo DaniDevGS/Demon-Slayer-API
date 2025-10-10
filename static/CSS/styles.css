@@ -16,8 +16,17 @@
 
     --font-principal: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
+/*
+|--------------------------------------------------------------------------
+| Fuentes para el encabezado y la navegacion
+|--------------------------------------------------------------------------
+*/
+--titulo-p: 1.2em;
+--nav-link: 0.9em;
 
-    /*
+
+
+/*
 |--------------------------------------------------------------------------
 | Fuentes para la article-grid
 |--------------------------------------------------------------------------
@@ -40,13 +49,14 @@ body {
     line-height: 1.6;
 }
 
-a {
+.nav-font {
     color: var(--color-acento-secundario);
     text-decoration: none;
     transition: color 0.3s ease;
+    font-size: var(--nav-link);
 }
 
-a:hover {
+.nav-font:hover {
     color: var(--color-acento-primario);
 }
 
@@ -57,43 +67,44 @@ a:hover {
 */
 
 .encabezado {
-    background-color: var(--color-fondo-secundario);
-    border-bottom: 2px solid var(--color-acento-primario); /* Línea de acento fuerte */
-    padding: 20px 5%;
+    /* background-color: var(--color-fondo-secundario); */
+    background-color: #111111;
+    border-bottom: 2px solid var(--color-acento-primario);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    height: auto;
 }
+
 
 .nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 1400px;
-    max-width: 100%;
-    margin: 0 auto;
+    width: 100%; 
+    max-width: 1400px; 
+    margin: 0 auto; 
     border: 1px red solid;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
+}
+
+.sublogo{
+    border: 1px white solid;
+    display: flex;
 }
 
 .sublogo-img {
-    display: flex;
-    align-items: center;
     gap: 15px;
+    width: 150px;
+
 }
 
 .titulo-p {
-    font-size: 1.8em;
+    font-size: var(--titulo-p);
     font-weight: 700;
-    color: var(--color-acento-primario); /* Título en el color principal */
+    color: var(--color-acento-primario);
 }
 
 .sublogo-img {
     height: 50px; /* Ajusta según el tamaño de tu logo */
     width: auto;
-    border-radius: 50%;
-    border: 2px solid var(--color-acento-secundario);
 }
 
 .logo {
@@ -186,6 +197,11 @@ main {
     padding: 40px 5%;
     max-width: 1200px;
     margin: 0 auto;
+    border: 2px yellow solid;
+}
+
+.introcciones{
+    border: 2px greenyellow solid;
 }
 
 .introcciones > div {
@@ -271,6 +287,56 @@ h2 {
     font-size: var(--divsubtitle-article);
     color: var(--color-texto-claro);
     margin-top: 15px;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Documentacion (Section)
+|--------------------------------------------------------------------------
+*/
+.documentation{
+    border: 2px purple solid;
+    padding-top: 40px;
+    max-width: 1200px;
+}
+
+.documentation-content{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    max-width: 800px;
+}
+
+.documentation-title{
+    background-color: white;
+    text-align: center;
+    margin-bottom: 40px;
+    max-width: max-content;
+}
+
+.documenation-title h2 {
+    color: var(--color-acento-primario);
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    border: 2px green solid;
+}
+
+.documenation-title p {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.1em;
+    color: #aaaaaa;
+}
+
+.contenido{
+    align-content: center;
+    margin: 0 auto;
+}
+
+.tabla-list{
+    align-items: center;
+    justify-items: center;
+    border: 2px peru solid;
 }
 
 /*

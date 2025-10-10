@@ -6,7 +6,9 @@
     <script src="https://kit.fontawesome.com/daf8c554e7.js" crossorigin="anonymous"></script>
     <title>Document</title>
     <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> -->
+    <!-- <link rel="stylesheet" href="/static/CSS/styles.css"> -->
     <link rel="stylesheet" href="/static/CSS/styles.css">
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
 </head>
 <body>
     <header class="encabezado">
@@ -18,22 +20,23 @@
             </div>
 
             <div class="nav-links">
-                <a href="#Documentacion">Documentacion</a>
+                <a href="#Documentacion" class="nav-font">Documentacion</a>
 
-                <a href="#example">Ejemplo</a>
+                <a href="#example" class="nav-font">Ejemplo</a>
 
-                <a href="#colaboradores">Colaboradores</a>
+                <a href="#colaboradores" class="nav-font">Colaboradores</a>
 
 
                 <div class="GitHub">
                     <div class="circle_button">
-                        <a href=""><button><i class="fa-brands fa-github"></i></button></a>
+                        <a href="" class="nav-font"><button><i class="fa-brands fa-github"></i></button></a>
                     </div>
                 </div>
             </div>
         </nav>
-
-        <section class="fondo">
+        
+    </header>
+    <section class="fondo">
             <div class="logo">
                 <h1 class="titulo">DEMON SLAYER API</h1>
                     <!-- <img src="{{ url_for('static', filename='img/Demon-Slayer-Logo.png') }}" alt="Logo" class="logo"> -->
@@ -47,8 +50,7 @@
 
             
         </section>
-        
-    </header>
+
     <main>
         <section class="introcciones">
             <div class="info">
@@ -116,7 +118,51 @@
             </div>
         </section>
 
+        <!-- DOCUMENTACION SECTION -->
+        <section class="documentation">
+            <div class="documentation-content">
+                <div class="documenation-title">
+                    <h2>Documentacion de la API</h2>
+                    <p>Guía de referencia completa para la API de Kimetsu No Yaiba. Accede a personajes, arcos argumentales, episodios del anime e imágenes con puntos de conexión REST sencillos.</p>
+                </div>
+                <div class="contenido">
+                    <div class="tabla-list">
+                        <button>Empezando</button>
+                        <button>Personajes</button>
+                        <button>Episodios</button>
+                        <button>Empezando</button>
+                        <button>Arcos narrativos</button>
+                        <button>Imagenes</button>
+                    </div>
 
+                    <div class="guie">
+                        <div class="guie-header">
+                            <div class="guie-title">
+                                <h3>Guía de inicio rápido</h3>
+                            </div>
+                            <div class="guie-p">
+                                <p>Ponte en marcha con la API de Demon Slayer en minutos. No requiere autenticación.</p>
+                            </div>
+                        </div>
+
+                        <div class="guie-content">
+                            <div class="guie-url">
+                                <h4>URL base</h4>
+                                <div class="guie-terminal">
+                                    <div class="guie-textbox">
+                                        <pre class="textbox">
+                                            <code class="text-code">http://127.0.0.1:5000/api/characters</code>
+                                        </pre>
+                                    </div>
+                                </div>
+                                <p>Todas las solicitudes de API deben dirigirse a esta URL base. La API es completamente abierta y no requiere autenticación.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
 
 
     </main>
