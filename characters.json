@@ -5,7 +5,8 @@
         "name": "Tanjiro Kamado",
         "breathing_style": "Water Breathing",
         "role": "Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/56/Final_Selection_Tanjiro_design.png/revision/latest?cb=20251002050645",
+        "image": "/static/img/Tanjiro.webp", 
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/5/56/Final_Selection_Tanjiro_design.png/revision/latest?cb=20251002050645",
         "season": "Arch of Unbreakable Resolve"
     },
     {
@@ -13,7 +14,8 @@
         "name": "Nezuko Kamado",
         "breathing_style": "None",
         "role": "Demon",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2f/Nezuko_anime_design.png/revision/latest?cb=20190813032549&path-prefix=es",
+        "image": "/static/img/Nezuko.webp",
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/2/2f/Nezuko_anime_design.png/revision/latest?cb=20190813032549&path-prefix=es",
         "season": "Arch of Unbreakable Resolve"
     },
     {
@@ -21,23 +23,26 @@
         "name": "Zenitsu Agatsuma",
         "breathing_style": "Thunder Breathing",
         "role": "Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4f/Zenitsu_anime_right_face.png/revision/latest?cb=20241228000445",
+        "image": "/static/img/Zenitsu.webp",
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/4f/Zenitsu_anime_right_face.png/revision/latest?cb=20241228000445",
         "season":"Arch of Unbreakable Resolve"
     },
     {
         "id": 4,
         "name": "Inosuke Hashibira",
-        "breathing_style": "Breath of the Beast",
+        "breathing_style": "Beast Breathing",
         "role":"Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Inosuke_anime.png/revision/latest?cb=20181128204238",
+        "image": "/static/img/Inosuke.webp",
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d4/Inosuke_anime.png/revision/latest?cb=20181128204238",
         "season": "Arch of Unbreakable Resolve"
     },
     {
         "id": 5,
         "name": "Kanao Tsuyuri",
-        "breathing_style": "Breath of the Flower",
+        "breathing_style": "Flower Breathing",
         "role":"Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/02/Kanao_anime_right_face.png/revision/latest?cb=20241227050721",
+        "image": "/static/img/Kanao.webp",
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/0/02/Kanao_anime_right_face.png/revision/latest?cb=20241227050721",
         "season": "Arch of Unbreakable Resolve"
     },
     {
@@ -45,7 +50,8 @@
         "name": "Giyu Tomioka",
         "breathing_style":"Water Breathing",
         "role":"Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/factvsfiction/images/8/83/Giyuu_anime_design.png/revision/latest/thumbnail/width/360/height/360?cb=20200405172840",
+        "image": "/static/img/hashiras/Giyuu.webp",
+        "image1": "https://static.wikia.nocookie.net/factvsfiction/images/8/83/Giyuu_anime_design.png/revision/latest/thumbnail/width/360/height/360?cb=20200405172840",
         "season":"Arch of Unbreakable Resolve"
     },
     {
@@ -53,7 +59,8 @@
         "name": "Genya Shinazugawa",
         "breathing_style": "None",
         "role":"Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/45/Genya_Final_Selection_design.png/revision/latest?cb=20251001170852",
+        "image": "/static/img/Genya.webp",
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/4/45/Genya_Final_Selection_design.png/revision/latest?cb=20251001170852",
         "season":"Arch of Unbreakable Resolve"
     },
     {
@@ -61,57 +68,93 @@
         "name": "Sakonji Urokodaki",
         "breathing_style":"Water Breathing",
         "role":"Demon Slayer",
-        "image": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d6/Younger_Sakonji_design.png/revision/latest?cb=20250930233648",
+        "image": "/static/img/Younger_Sakonji.webp",
+        "image1": "https://static.wikia.nocookie.net/kimetsu-no-yaiba/images/d/d6/Younger_Sakonji_design.png/revision/latest?cb=20250930233648",
         "season":"Arch of Unbreakable Resolve"
     },
     {
         "id": 9,
-        "name": "Muzan Kibutsuji",
-        "breathing_style":"",
-        "role":"",
-        "image": "",
-        "season":""
+        "name": "Kaigaku",
+        "breathing_style": "Thunder Breathing",
+        "role":"Demon",
+        "image": "/static/img/Kaigaku.webp",
+        "image1": "",
+        "season": "Arch of Infinity Castle"
     },
     {
         "id": 10,
-        "name": "Lady Tamayo",
-        "breathing_style":"",
-        "role":"",
-        "image": "",
-        "season":""
+        "name": "Kyōjurō Rengoku",
+        "breathing_style":"Flame Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Kyojuro.webp",
+        "image1": "",
+        "season":"Arch Mugen Train"
     },
     {
         "id": 11,
-        "name": "Yushiro Yamamoto",
-        "breathing_style":"",
-        "role":"",
-        "image": "",
-        "season":""
+        "name": "Iguro Obanai",
+        "breathing_style":"Serpent Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Obanai.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
     },
     {
         "id": 12,
-        "name": "Rui Ayaki",
-        "breathing_style":"",
-        "role":"",
-        "image": "",
-        "season":""
+        "name": "Shinobu Kochou",
+        "breathing_style":"Insect Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Shinobu.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
     },
     {
         "id": 13,
-        "name": "Enmu",
-        "breathing_style":"",
-        "role":"",
-        "image": "",
-        "season":""
+        "name": "Kanroji Mitsuri",
+        "breathing_style":"Love Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Mitsuri.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
     },
     {
         "id": 14,
-        "name": "Kyōjurō Rengoku",
-        "breathing_style":"",
-        "role":"",
-        "image": "",
-        "season":""
+        "name": "Sanemi Shinazugawa",
+        "breathing_style":"Wind Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Sanemi.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 15,
+        "name": "Tengen Uzui",
+        "breathing_style":"Sound Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Tengen.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 16,
+        "name": "Muichiro Tokito",
+        "breathing_style":"Mist Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Muichiro.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 17,
+        "name": "Gyomei Himejima",
+        "breathing_style":"Rock Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/hashiras/Gyomei.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
     }
+    
+    
 
     ]
 }
