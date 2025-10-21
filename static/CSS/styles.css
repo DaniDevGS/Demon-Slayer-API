@@ -312,13 +312,18 @@ h2 {
     text-align: center;
     margin-bottom: 40px;
     max-width: max-content;
+    border: 2px peru solid;
+    height: auto;
 }
 
 .documenation-title h2 {
-    color: var(--color-acento-primario);
-    font-size: 2.5em;
-    margin-bottom: 10px;
-    border: 2px green solid;
+    font-size: 2em;
+    font-weight: 700;
+    color: var(--color-acento-secundario); /* Títulos de sección en color secundario */
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    text-align: center;
+    border: 2px peru solid;
 }
 
 .documenation-title p {
@@ -326,10 +331,13 @@ h2 {
     margin: 0 auto;
     font-size: 1.1em;
     color: #aaaaaa;
+    text-align: center;
+    border: 2px peru solid;
 }
 
 .contenido{
-    align-content: center;
+    align-items: center;
+    justify-items: center;
     margin: 0 auto;
 }
 
@@ -337,8 +345,38 @@ h2 {
     align-items: center;
     justify-items: center;
     border: 2px peru solid;
+    margin: 30px;
+    padding: 0 auto;
+    gap: 1.2rem;
 }
 
+/* GUIE */
+.guie{
+    border:2px #cc2222 solid;
+}
+
+.guie-header{
+    border: 2px #aaaaaa solid;
+    margin-bottom: 40px;
+}
+
+.guie-url{
+    border: 2px green solid;
+}
+
+.guie-url h4{
+    margin-bottom: 10px;
+}
+
+.textbox{
+    background-color: rgb(0, 0, 21);
+    height: auto;
+    width: auto;
+    padding: 5px;
+    text-align: center;
+    justify-items: center;
+    border-radius: 10px;
+}
 /*
 |--------------------------------------------------------------------------
 | Media Queries (Responsiveness)
