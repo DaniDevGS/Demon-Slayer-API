@@ -152,9 +152,168 @@
         "image": "/static/img/hashiras/Gyomei.webp",
         "image1": "",
         "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 18,
+        "name": "Yorīchi Tsugikuni",
+        "breathing_style":"Sun Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/Yoriichi_manga.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 19,
+        "name": "Michikatsu Tsugikuni",
+        "breathing_style":"Moon Breathing",
+        "role":"Demon Slayer",
+        "image": "/static/img/Michikatsu_manga.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 20,
+        "name": "Muzan Kibutsuji",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Muzan.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 21,
+        "name": "Kokushibo",
+        "breathing_style":"Moon Breathing",
+        "role":"Demon",
+        "image": "/static/img/Kokushibo.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 22,
+        "name": "Doma",
+        "breathing_style": "None",
+        "role":"Demon",
+        "image": "/static/img/Doma.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 23,
+        "name": "Akaza",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Akaza.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 25,
+        "name": "Hantengu",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Hantengu.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 26,
+        "name": "Gyokko",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Gyokko.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 27,
+        "name": "Kaigaku",
+        "breathing_style":"Thunder Breathing",
+        "role":"Demon",
+        "image": "/static/img/Kaigaku.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 28,
+        "name": "Gyutaro",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Gyutaro.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 29,
+        "name": "Daki",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Daki.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 30,
+        "name": "Enmu",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Enmu.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 31,
+        "name": "Rokuro",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Rokuro.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 32,
+        "name": "Wakuraba",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Wakuraba.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 33,
+        "name": "Mukago",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Mukago.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 34,
+        "name": "Rui",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Rui.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 35,
+        "name": "Kamanue",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Kamanue.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
+    },
+    {
+        "id": 36,
+        "name": "Kyogai",
+        "breathing_style":"None",
+        "role":"Demon",
+        "image": "/static/img/Kyogai.webp",
+        "image1": "",
+        "season":"Arch of Infinity Castle"
     }
-    
-    
-
     ]
 }
